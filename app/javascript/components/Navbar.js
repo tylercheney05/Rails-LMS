@@ -13,7 +13,7 @@ const Navbar = ()=> (
         <a href="/users">Users</a>
       </li>
       <li>
-        <a href="users/new">Add User</a>
+        <a href="/users/new">Add User</a>
       </li>
     </ul>
   </nav>

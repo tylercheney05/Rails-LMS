@@ -13,7 +13,7 @@ const UserNew = ({ user }) => {
           type="text"
           defaultValue={defaultFName}
           name="user[first_name]"
-        />
+        /><br/>
         <input
           placeholder="Last Name"
           type="text"
